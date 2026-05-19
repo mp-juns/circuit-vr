@@ -1,4 +1,4 @@
-# Circuit Capstone KDS2
+# Circuit Capstone 
 
 > **VR 브레드보드 회로 시뮬레이터** — Meta Quest 3에서 가상 브레드보드에 부품을 꽂고 와이어를 연결해 회로를 조립한 뒤, GPT Vision AI가 정답 여부를 판정해주는 교육용 XR 캡스톤 프로젝트입니다.
 
