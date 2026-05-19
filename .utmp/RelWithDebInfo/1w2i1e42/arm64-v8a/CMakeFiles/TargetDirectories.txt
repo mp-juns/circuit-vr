@@ -1,0 +1,5 @@
+C:/Users/322-6/Circuit_Capston _KDS/.utmp/RelWithDebInfo/1w2i1e42/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/322-6/Circuit_Capston _KDS/.utmp/RelWithDebInfo/1w2i1e42/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/322-6/Circuit_Capston _KDS/.utmp/RelWithDebInfo/1w2i1e42/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/322-6/Circuit_Capston _KDS/.utmp/RelWithDebInfo/1w2i1e42/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/322-6/Circuit_Capston _KDS/.utmp/RelWithDebInfo/1w2i1e42/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

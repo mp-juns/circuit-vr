@@ -1,0 +1,75 @@
+# ========================
+# Unity 자동 생성 폴더
+# ========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+GeneratedAssets/
+
+# ========================
+# Unity IDE 자동 생성 파일
+# ========================
+*.sln
+*.slnx
+*.csproj
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ========================
+# 학습 데이터 / 캡처 이미지
+# (용량이 크고 데이터셋이라 별도 관리)
+# ========================
+training_data.jsonl
+validation_data.jsonl
+Photos/
+CameraCaptureDebug/
+
+# 잘못된 경로명으로 생긴 로컬 데이터 폴더
+C User*/
+
+# ========================
+# API 키 / 환경변수 파일
+# ========================
+.env
+.env.local
+secrets.json
+api_keys.txt
+
+# ========================
+# OS 시스템 파일
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ========================
+# Python 파인튜닝 관련
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ========================
+# 빌드 결과물
+# ========================
+*.apk
+*.aab
+*.ipa
+ExportedProject/
