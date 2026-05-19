@@ -1,4 +1,4 @@
-# Circuit Capston KDS2 - 프로젝트 상세 문서
+# Circuit Capston - 프로젝트 상세 문서
 
 ## 📋 프로젝트 개요
 
